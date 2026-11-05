@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-resellerclub-react-native",
+  "capabilityKey": "liberusoftware/billing-resellerclub",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-billing-resellerclub-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-resellerclub.md",
+  "presentationPlan": "projects/billing/react-native/module-billing-resellerclub.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
